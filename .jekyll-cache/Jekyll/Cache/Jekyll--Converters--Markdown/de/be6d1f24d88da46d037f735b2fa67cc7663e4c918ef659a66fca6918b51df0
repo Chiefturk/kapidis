@@ -1,33 +1,4 @@
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>Lesson1</title>
-    <link rel="stylesheet" href="/assets/css/styles.css">
-  </head>
-  <body>
-    <nav>
-  
-    <a href="/" >Home</a>
-  
-    <a href="/about.html" >About</a>
-  
-    <a href="/blog.html" >Blog</a>
-  
-    <a href="/staff.html" >Staff</a>
-  
-</nav>
-    <h1>Lesson1</h1>
-
-<p>
-  05 Mar 2022
-  
-  
-    - <a href="/authors/WHonmyH.html">WHonmyH</a>
-  
-</p>
-
-<h1 id="first-lesson-alert-and-console">FIRST LESSON: ALERT AND CONSOLE</h1>
+I"Ç<h2 id="first-lesson-alert-and-console">FIRST LESSON: ALERT AND CONSOLE</h2>
 
 <p>In html first do a <strong>script label</strong>.Then try the <strong>alert command</strong> <em>(just write alert in the script label)</em></p>
 
@@ -47,6 +18,4 @@ or console.</p>
 
 <p><code class="language-plaintext highlighter-rouge">See you on the next lesson</code> 
 :wave:</p>
-
-  </body>
-</html>
+:ET
