@@ -1,6 +1,6 @@
 ---
-short_name: jill
-name: Jill Smith
-position: Chief Editor
+short_name: WHonmyH
+name: WHonmyH
+position: Chief Editor / Developer
 ---
-Jill is an avid fruit grower based in the south of France.
+WHonmyH is very young developer.
