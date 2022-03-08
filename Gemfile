@@ -3,6 +3,7 @@
 source "https://rubygems.org"
 
 gem "jekyll"
-gem "kramdown"
-gem "kramdown-parser-gfm" 
-# gem "rails"
+
+gem "rails"
+
+gem "minima", "2.4.1"
