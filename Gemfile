@@ -6,4 +6,4 @@ gem "jekyll"
 
 gem "rails"
 
-gem "minima", "2.4.1"
+gem "minima", "2.5.1"
