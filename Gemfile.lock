@@ -62,6 +62,8 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll
+  kramdown
+  kramdown-parser-gfm
 
 BUNDLED WITH
    2.3.8
