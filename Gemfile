@@ -7,3 +7,5 @@ gem "jekyll"
 gem "rails"
 
 gem "minima", "2.5.1"
+
+gem "jekyll-theme-console"
