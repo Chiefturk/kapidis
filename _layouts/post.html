@@ -2,11 +2,12 @@
 ---
 <style>
     @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
-
+  
     .container {
 
-        max-width: 800px;
+        max-width: 640px;
         margin: auto;
+        background-color: white;
 
     }
 
@@ -29,13 +30,40 @@
     ol li {
         font-size: 1.0rem;
     }
-</style>
-<div class="container">
-    <header>
 
+    .box {
+
+        background-color: rgb(255, 255, 255);
+        max-width: 680px;
+        margin: auto;
+    }
+
+    .Main {
+    
+        background-color: black;
+    
         
-    </header>
-    <main>
-    {{content}}
-</main>
+
+    }
+</style>
+
+
+<div class="Main">
+    <br>
+    <br>
+    <div class="Box">
+        <br>
+
+        <div class="container">
+            <header>
+                
+            </header>
+            <main>
+                {{content}}
+            </main>
+        </div>
+        <br>
+    </div>
+    <br>
+<br>
 </div>

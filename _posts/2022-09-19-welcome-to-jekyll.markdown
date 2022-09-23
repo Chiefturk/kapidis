@@ -5,6 +5,10 @@ date:   2022-09-18 09:46:35 +0300
 categories: Gozetim
 ---
 
+
+# GÖZETLENEN ADAM
+
+
 **Her an gözetlenen adamın hiçbir özgürlüğü yoktu.**
 
 Çok çok sonraları, hiç kimsenin yıkılacağını beklemediği bir tarihte, göz açıp kapayıncaya kadar hızla yıkılacak olan o baskıcı düzenin, kusursuz bir saat gibi işleyen mükemmelliğe sahip olduğuna inanır, o düzene güvenirdi şüphesiz. Söylediği her sözün, gerçekleştirdiği her yazışmanın, yürüdüğü her sokağın, yediği her yemeğin kayıtlara geçtiğini bilir, o yüzden attığı her adımın, buluştuğu her arkadaşının, söylediği her sözün düzene uygun olup olmadığını iki kez tartardı.
@@ -46,3 +50,5 @@ Her an gözetlenen adam, gözle görülemeyecek kadar küçük mikrofonların, v
 Ve gözlerini açıp, her an ölüme biraz daha yaklaşan bedenini görmekten çılgınca korktuğunu kendine asla itiraf edemiyor. Kaçmamayı, hapsedildiği bu evrenden kurtulmamayı, yaşamamayı, var olmamayı çılgınca bir arzuyla tercih ediyor.
 
 Her an gözetlenen adam, tüm evreni kaplayan o dev cezaevinin mimarının kendisi olduğunu, o düzeni kendi huzuru için, kendi elleriyle yarattığını düşünemeyecek kadar tedirgin ve yalnız. İçine fırlatıldığı sahnede, repliği çalınmış bir aktör gibi ne yapacağını bilmeden, ürkek adımlarla dolaşıyor, sıranın kendisine geleceği günden ölümden daha çok korkuyor.
+
+
