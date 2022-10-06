@@ -1,0 +1,78 @@
+---
+---
+<title>
+
+    {{site.title}}
+    <!--config.yml dosyasindaki title i alir ve sekme uzerine yazar-->
+</title>
+<style>
+    @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+
+
+    body {
+        margin: 0px;
+    }
+
+    .container {
+
+        max-width: 640px;
+        margin: auto;
+        background-color: white;
+        padding: 20px 20px 20px 40px;
+
+    }
+
+    a,
+    p,
+    ul li,
+    ol li,
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+        font-family: 'Roboto Mono', monospace;
+    }
+
+    a,
+    p,
+    ul li,
+    ol li {
+        font-size: 1.0rem;
+    }
+
+
+    .Ana {
+
+        background-color: black;
+
+
+
+    }
+</style>
+
+{% include header.html %}
+<div class="Ana">
+    <br>
+    <br>
+
+    <div class="container">
+        <header>
+
+        </header>
+        <main lang="tr">
+            <h1 style="text-transform: uppercase">{{page.title}}</h1>
+            <!--buraya hangi sayfadaysa o sayfanin basligini yapiyor-->
+
+            <!--Title a ne yazildiysa onu buyuk harfe ceviriyor-->
+            
+            {{content}}
+
+            <h3>{{page.categories}}</h3>
+        </main>
+    </div>
+    <br>
+    <br>
+
+</div>
