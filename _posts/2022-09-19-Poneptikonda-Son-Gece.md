@@ -1,13 +1,11 @@
 ---
 layout: post
-title:  Poneptikon'da Son Gece
-date:   2022-09-18 09:46:35 +0300
-categories: Gozetim
+title: Poneptikon'da Son Gece
+date: 2022-09-18 09:46:35 +0300
+categories: Ceviri
+mentions: izleme anonimlik merkeziyetsizlik
+permalink: /:categories/:title
 ---
-
-
-# GÖZETLENEN ADAM
-
 
 **Her an gözetlenen adamın hiçbir özgürlüğü yoktu.**
 
@@ -23,7 +21,7 @@ Medyadan ve çevresinde konuşulanlardan edindiği, kendisinin de başkalarına 
 
 Düşünceleri bile sloganlardan uzaklaşamazdı. Mesela, ekonomik sıkıntıların çözümü için yapılması gerekenler üzerine düşünürken, ona ait olmayan, sloganlarla bezenmiş bir takım fikirler geçiverirdi zihninden:
 
-“Serbest piyasa ekonomisi istemiyoruz biz” derdi içinden. “Adil ve halkçı paylaşım ekonomisi istiyoruz! A şehrindeki bir malın fiyatının, B şehrindekine eşit olduğu, para üzerinden para kazanılmayan, kimsenin halkın ürettiği değere ortak olmadığı bir sistem.” Sonra bir kez daha yinelerdi sevdiği sloganı: “Adil ve halkçı paylaşım ekonomisi istiyoruz.”
+_“Serbest piyasa ekonomisi istemiyoruz biz”_ derdi içinden. _“Adil ve halkçı paylaşım ekonomisi istiyoruz! A şehrindeki bir malın fiyatının, B şehrindekine eşit olduğu, para üzerinden para kazanılmayan, kimsenin halkın ürettiği değere ortak olmadığı bir sistem.”_ Sonra bir kez daha yinelerdi sevdiği sloganı: **“Adil ve halkçı paylaşım ekonomisi istiyoruz.”**
 
 Bu içi boş fikirlerin iktisadi açıdan hiçbir mantıklı temelleri olmamasının, çoğunlukla uygulanamaz olmalarının, uygulandıkları kadarıyla kalkınmayı büsbütün durduracak olmalarının ve uzun vadede tüm topluma zarar verecek olmalarının önemi yoktu onun için. O bol slogan sosu arasına kolay hazmedilen düşüncelerle beslenmeye alışmıştı.
 
