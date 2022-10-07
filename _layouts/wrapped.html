@@ -1,0 +1,63 @@
+---
+---
+<title>
+
+    {{site.title}}
+
+</title>
+<!--config.yml dosyasindaki title i alir ve sekme uzerine yazar-->
+<style>
+    @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+
+    body {
+        margin: 0px;
+        background-color: black;
+        color: white;
+    }
+    a,
+    p,
+    ul li,
+    ol li,
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+        font-family: 'Roboto Slab', serif;
+    }
+
+    
+
+    a,
+    p,
+    ul li,
+    ol li {
+        font-size: 1.0rem;
+    }
+
+    .container {
+
+max-width: 640px;
+margin: auto;
+background-color: white;
+padding: 20px 20px 20px 40px;
+color: black;
+
+}
+</style>
+
+
+<body>
+    
+{% include header.html %}
+
+
+      {{content}}
+
+
+</body>
+
+
+
+
