@@ -1,16 +1,31 @@
+<style>
+    .header {
+        display: flex;
+        height: 65px;
+
+    }
+
+    .c {
+        margin-left: auto;
+    }
+</style>
 
 <div class="header">
 
-    <a href= "../"> <img style="width: 50px;vertical-align: middle;" src="../images/Logo.png" alt="nopic"></a>
+    <a href="../"> <img style="width: 50px;" src="../images/Logo.png" alt="nopic"></a>
+
+    <span style="font-size:50px;">
+        {{site.title}}
+    </span>
+
+    <span class="c" style="font-size:20px;margin-top:30px;margin-right: 10px;">
+
+        hakkında | iletişim 
 
 
-<span style="font-size: 50px;vertical-align: middle;">
-    {{site.title}} 
-</span>
+    </span>
 
-    <span class="navigations">
-        <span>Iletisim</span> | <span>Duyurular</span> | <span>Kaynaklar</span>
-</span>
+
 
 </div>
 <hr>

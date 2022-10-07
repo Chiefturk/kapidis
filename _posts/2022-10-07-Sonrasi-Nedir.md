@@ -7,7 +7,9 @@ mentions: Post-Modernite
 permalink: /:categories/:title
 ---
 
-**“Even if what you feel is pain, only let yourself feel.”**
+![image](../images/guernica.png)
+
+**“Even if what you feel is pain, only let yourself feel.”** _- P. D. James_
 
 Soruları artık başkalarına değil kendimize  yönelttiğimiz günlerden geçmeye başlıyoruz.  İç Sesimiz bize bir yerlerde bir şeylerin yanlış gittiğini haykırıyor ve biz bu sessizlikte onu ancak duymaya başlayabiliyoruz. her kültürde de yaşandığı gibi kriptoda da sonrası bir evreye giriliyor.
 
