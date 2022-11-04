@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Siber Alem Bağımsızlık Manifestosu
-date: 2022-10-07 00:00:01 +0300
+date: 2022-11-03 00:00:01 +0300
 categories: Makale
 mentions: Siber Alem
 permalink: /:categories/:title
@@ -10,6 +10,8 @@ permalink: /:categories/:title
 ![image](../images/Barlow.jpg)
 
 6 Şubat 2018 tarihinde yitirdiğimiz [John Perry Barlow](https://www.eff.org/tr/deeplinks/2018/02/john-perry-barlow-internet-pioneer-1947-2018)`un anısına saygıyla...
+
+
 
 Endüstriyel dünyanın hükümetleri, siz etten ve çelikten yapılmış yorgun devler! Ben Siber Alem’den, zihnin yeni evinden geliyorum. Geleceğin temsilcisi olarak, geçmişte kalan sizlerden bizi rahat bırakmanızı istiyorum. Aramıza hoş gelmediniz. Bir araya geldiğimiz bu alemde artık sizin hiçbir egemenliğiniz yok.”
 
@@ -20,6 +22,10 @@ Hiç bir hükümet seçmedik, ne de seçmemiz muhtemel. Bu yüzden özgür irade
 Aramızdaki büyük birliğe bağlı değilsiniz, ne de zengin pazarımızın doğuşuna katkıda bulundunuz. Kültürümüzü bilmiyorsunuz, etikten habersizsiniz. **Bizim yazılmamış kodlarımızla oluşan düzen, sizin herhangi biriniz tarafından dayatılan düzenden, çok daha etkili yönetiyor dünyayı.**
 
 Aramızda, sizin çözmek istediğiniz sorunlar olduğunu iddia ediyorsunuz. Bu iddiayı bir gerekçe olarak kullanıp bölgemizi işgal etmeye çalışıyorsunuz. Bu sorunlar da gerekçeler de yersiz. Hatalarımız, çatışmalarımız elbet vardır. Ama ne olursa olsun biz onları tanımlar ve gereken şekilde müdahale ederiz. **Kendi toplumsal sözleşmemizi oluşturuyoruz. Bu yönetim, kendi koşullarımız ile oluşacak, sizin kurallarınızla değil.** Bizim Dünya’mız farklı.
+
+
+![image](../images/linecut.png)
+
 
 Siberalem işlemlerden, ilişkilendirmelerden ve iletişim ağı içerisinde oluşan dalgalar gibi dizilerek kendini besler. Bizimki aynı zamanda heryerde olan ve hiç bir yerde olmayan bir dünya, ama organlarımızın yaşamadığı bir yer.
 
