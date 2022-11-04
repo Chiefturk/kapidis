@@ -7,6 +7,7 @@ mentions: Siber Alem
 permalink: /:categories/:title
 ---
 
+![image](../images/Barlow.jpg)
 
 6 Şubat 2018 tarihinde yitirdiğimiz [John Perry Barlow](https://www.eff.org/tr/deeplinks/2018/02/john-perry-barlow-internet-pioneer-1947-2018)`un anısına saygıyla...
 
