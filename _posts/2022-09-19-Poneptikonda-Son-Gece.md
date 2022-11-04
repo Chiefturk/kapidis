@@ -2,7 +2,7 @@
 layout: post
 title: Poneptikon'da Son Gece
 date: 2022-09-18 09:46:35 +0300
-categories: Ceviri
+categories: Alıntı
 mentions: izleme anonimlik merkeziyetsizlik
 permalink: /:categories/:title
 ---
