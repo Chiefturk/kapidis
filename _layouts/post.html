@@ -6,11 +6,15 @@ layout: wrapped
 <div class="container">
     <main lang="tr">
         <h1 style="text-transform: uppercase; text-align: center;">{{page.title}}</h1>
+        <hr>
+        <h5 style="text-align: center">{{page.date | date: '%-d %B %Y'}} - {{page.categories}}</h3>
+    
+        <hr>
         <!--buraya hangi sayfadaysa o sayfanin basligini yapiyor-->
         <!--Title a ne yazildiysa onu buyuk harfe ceviriyor-->
         {{content}}
-        <h3>{{page.categories}}</h3>
-        {{page.date | date: '%-d %B %Y'}}
+        
+        
     </main>
 
 </div>
