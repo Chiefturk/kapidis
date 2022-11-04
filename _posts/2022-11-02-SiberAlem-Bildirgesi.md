@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Siber Alem Bağımsızlık Manifestosu
+title: Siber Alem Bağımsızlık Bildirgesi
 date: 2022-11-03 00:00:01 +0300
-categories: Alıntı Çeviri
+categories: Çeviri
 mentions: Siber Alem
 permalink: /:categories/:title
 ---
