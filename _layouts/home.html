@@ -7,11 +7,18 @@ a:link,
 a:visited {
 
     color: white;
+    text-decoration: none;
+}
+.gridHome{
+height: 640px;
+/*display: grid;   simdilik yorumda kalsin sonra bakariz*/
 }
 
 </style>
 
+<div class="gridHome">
 {% for post in site.posts %}
 <li><a href="{{ post.url }}">{{post.title}}</a></li>
  <br>
 {% endfor %}
+</div>
