@@ -3,7 +3,7 @@ layout: post
 title: Siber Alem Bağımsızlık Bildirgesi
 date: 2022-11-03 00:00:01 +0300
 categories: Çeviri
-mentions: Siber Alem
+tag: Siber Alem
 permalink: /:categories/:title
 ---
 

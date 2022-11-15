@@ -3,7 +3,7 @@ layout: post
 title: Sonrası Nedir?
 date: 2022-10-07 00:00:01 +0300
 categories: Makale
-mentions: Post-Modernite
+tag: Post-Modernite
 permalink: /:categories/:title
 ---
 
