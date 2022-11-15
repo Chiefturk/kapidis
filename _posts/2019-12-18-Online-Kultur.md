@@ -3,7 +3,7 @@ layout: post
 title: Online Kültür Savaşları ve Alt-Right’ın Yükselişi
 date: 2019-12-18 09:46:35 +0300
 categories: Alıntı
-mentions: 4chan meme alt-right
+tag: 4chan meme alt-right
 permalink: /:categories/:title
 ---
 
