@@ -3,27 +3,28 @@ layout: wrapped
 ---
 
 <style>
-a:link,
-a:visited {
+    a:link,
+    a:visited {
 
-    color: white;
-    text-decoration: none;
-}
-a:hover{
-background-color: rgb(133, 0, 0);
-}
+        color: white;
+        text-decoration: none;
+    }
 
-.gridHome{
-height: 640px;
-margin-left: 50px;
-/*display: grid;   simdilik yorumda kalsin sonra bakariz*/
-}
+    .postLinks:hover {
 
+        background-color: rgb(133, 0, 0);
+    }
+
+    .gridHome {
+        height: 640px;
+        margin-left: 50px;
+        /*display: grid;   simdilik yorumda kalsin sonra bakariz*/
+    }
 </style>
 
 <div class="gridHome">
-{% for post in site.posts %}
-<li><a href="{{ post.url }}">{{post.title}}</a></li>
- <br>
-{% endfor %}
+    {% for post in site.posts %}
+    <li><a href="{{ post.url }}" class="postLinks">{{post.title}}</a></li>
+    <br>
+    {% endfor %}
 </div>
