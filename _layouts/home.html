@@ -10,9 +10,20 @@ layout: wrapped
         text-decoration: none;
     }
 
-    .postLinks:hover {
+    .postCont {
+        width: 300px;
+        
+        text-align: center;
+    }
 
-        background-color: rgb(133, 0, 0);
+    .postLinks {
+        font-size: 1.5em;
+
+    }
+
+    .postLinks:hover {
+        font-size: 1.8em;
+
     }
 
     .gridHome {
@@ -20,11 +31,20 @@ layout: wrapped
         margin-left: 50px;
         /*display: grid;   simdilik yorumda kalsin sonra bakariz*/
     }
+
+    .postDesc {
+        font-size: 0.8em;
+        text-align: left;
+
+    }
 </style>
 
 <div class="gridHome">
     {% for post in site.posts %}
-    <li><a href="{{ post.url }}" class="postLinks">{{post.title}}</a></li>
+    <li class="postCont"><a href="{{ post.url }}" class="postLinks">{{post.title}}</a>
+        <hr>
+        <div class="postDesc">{{ post.description }}</span>
+    </li>
     <br>
     {% endfor %}
 </div>

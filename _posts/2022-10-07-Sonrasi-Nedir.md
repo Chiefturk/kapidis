@@ -2,6 +2,7 @@
 layout: post
 title: Sonrası Nedir?
 date: 2022-10-07 00:00:01 +0300
+description: Soruları artık başkalarına değil kendimize  yönelttiğimiz günlerden geçmeye başlıyoruz.
 categories: Makale
 tag: Post-Modernite
 permalink: /:categories/:title

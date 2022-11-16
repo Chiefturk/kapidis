@@ -2,6 +2,7 @@
 layout: post
 title: Poneptikon'da Son Gece
 date: 2022-09-18 09:46:35 +0300
+description: Her an gözetlenen adamın hiçbir özgürlüğü yoktu.
 categories: Alıntı
 tag: izleme anonimlik merkeziyetsizlik
 permalink: /:categories/:title
