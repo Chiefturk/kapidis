@@ -11,6 +11,8 @@ Translator:
 image: ../images/pfanimal.png
 ---
 
+![image](../images/pfanimal.png)
+
 **Her an gözetlenen adamın hiçbir özgürlüğü yoktu.**
 
 Çok çok sonraları, hiç kimsenin yıkılacağını beklemediği bir tarihte, göz açıp kapayıncaya kadar hızla yıkılacak olan o baskıcı düzenin, kusursuz bir saat gibi işleyen mükemmelliğe sahip olduğuna inanır, o düzene güvenirdi şüphesiz. Söylediği her sözün, gerçekleştirdiği her yazışmanın, yürüdüğü her sokağın, yediği her yemeğin kayıtlara geçtiğini bilir, o yüzden attığı her adımın, buluştuğu her arkadaşının, söylediği her sözün düzene uygun olup olmadığını iki kez tartardı.
