@@ -2,7 +2,7 @@
 layout: post
 title: Poneptikon'da Son Gece
 date: 2022-09-18 09:46:35 +0300
-description: Her an gözetlenen adamın hiçbir özgürlüğü yoktu.
+description: Her an gözetlenen adamın hiçbir özgürlüğü yoktu. Ne bilimsel veriler ilgisini çekerdi onun, ne de geçmişte olanlardan dersler çıkaracak kadar incelemeye vakti vardı. Varsa yoksa, doğru olduğuna inandığı, inandırıldığı sloganlar.
 categories: Alıntı
 tag: izleme anonimlik merkeziyetsizlik
 permalink: /:categories/:title
