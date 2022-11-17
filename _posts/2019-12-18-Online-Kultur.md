@@ -2,7 +2,7 @@
 layout: post
 title: Online Kültür Savaşları ve Alt-Right’ın Yükselişi
 date: 2019-12-18 09:46:35 +0300
-description: Nasıl oldu da demokratik rejimler totaliteryenizmi üretti?
+description: Nasıl oldu da demokratik rejimler totaliteryenizmi üretti? Neyin ciddi, neyin ciddiyetsiz olduğunu anlayamadığınız bir trol üslubu, bu yeni sağ için oldukça elverişli.
 categories: Alıntı
 tag: 4chan meme alt-right
 permalink: /:categories/:title

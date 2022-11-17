@@ -2,7 +2,7 @@
 layout: post
 title: Siber Alem Bağımsızlık Bildirgesi
 date: 2022-11-03 00:00:01 +0300
-description: Hiç bir hükümet seçmedik, ne de seçmemiz muhtemel.
+description: Bizim yazılmamış kodlarımızla oluşan düzen, sizin herhangi biriniz tarafından dayatılan düzenden, çok daha etkili yönetiyor dünyayı. Siberalem’de akılsal bir uygarlık yaratacağız. Ve uygarlığımız, sizin bizden önce yarattığınız dünyayı yöneten hükümetlerden çok daha hümanist olacak.
 categories: Çeviri
 tag: SiberAlem Online Crypto Kripto
 permalink: /:categories/:title

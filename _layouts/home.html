@@ -10,11 +10,10 @@ layout: wrapped
     }
 
     .postCont {
+
         width: 320px;
-        height: 240px;
-        padding: 24px;
-
-
+        margin: 18px;
+        height: 350px;
 
     }
 
@@ -28,30 +27,32 @@ layout: wrapped
         display: flex;
         flex-flow: row wrap;
         height: 640px;
-        justify-items: flex-end;
+
+
     }
 
     .postDesc {
         font-size: 0.9em;
-        text-align: left;
+        
+        
 
     }
 </style>
 
 <div class="gridHome">
     {% for post in site.posts %}
-    <li class="postCont">
+    <article class="postCont">
         <img style="width: 320px;height: 180px;" src="{{ post.image | prepend: site.baseurl }}" alt="{{ post.title }}"
             title="{{ post.title }}">
 
-        <section style="height: 70px; text-align: center">
-            <a style="font-size: 1.5em;" href="{{ post.url }}">{{post.title}}</a>
+        <section style="height: 70px; text-align: center;padding:10px">
+            <a class="postLinks" style="font-size: 1.5em;" href="{{ post.url }}">{{post.title}}</a>
         </section>
 
         <hr>
 
         <div class="postDesc">{{ post.description }}</div>
-    </li>
+    </article>
 
     {% endfor %}
 </div>

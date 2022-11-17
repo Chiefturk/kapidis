@@ -2,7 +2,7 @@
 layout: post
 title: Sonrası Nedir?
 date: 2022-10-07 00:00:01 +0300
-description: Soruları artık başkalarına değil kendimize  yönelttiğimiz günlerden geçmeye başlıyoruz.
+description: Post-modernitenin ruh haline doğru onun tadında zevksizce sürüklenmek yola çıkarken yarattığımız ideolojinin kutsiyetini zayıflatıyor. Daha zaten her şey çok yeni olmasına rağmen yine de var olanı tüketip yeni heyecan arayışlarına sürükleniyoruz.
 categories: Makale
 tag: Post-Modernizm
 permalink: /:categories/:title
