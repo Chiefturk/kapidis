@@ -5,35 +5,34 @@ layout: wrapped
 <style>
     a:link,
     a:visited {
-
         color: white;
         text-decoration: none;
     }
 
     .postCont {
-        width: 300px;
-        
-        text-align: center;
-    }
+        width: 320px;
+        height: 240px;
+        padding: 24px;
 
-    .postLinks {
-        font-size: 1.5em;
+
 
     }
+
 
     .postLinks:hover {
-        font-size: 1.8em;
+        color: rgb(200, 0, 0);
 
     }
 
     .gridHome {
+        display: flex;
+        flex-flow: row wrap;
         height: 640px;
-        margin-left: 50px;
-        /*display: grid;   simdilik yorumda kalsin sonra bakariz*/
+        justify-items: flex-end;
     }
 
     .postDesc {
-        font-size: 0.8em;
+        font-size: 0.9em;
         text-align: left;
 
     }
@@ -41,10 +40,18 @@ layout: wrapped
 
 <div class="gridHome">
     {% for post in site.posts %}
-    <li class="postCont"><a href="{{ post.url }}" class="postLinks">{{post.title}}</a>
+    <li class="postCont">
+        <img style="width: 320px;height: 180px;" src="{{ post.image | prepend: site.baseurl }}" alt="{{ post.title }}"
+            title="{{ post.title }}">
+
+        <section style="height: 70px; text-align: center">
+            <a style="font-size: 1.5em;" href="{{ post.url }}">{{post.title}}</a>
+        </section>
+
         <hr>
-        <div class="postDesc">{{ post.description }}</span>
+
+        <div class="postDesc">{{ post.description }}</div>
     </li>
-    <br>
+
     {% endfor %}
 </div>

@@ -4,8 +4,11 @@ title: Siber Alem Bağımsızlık Bildirgesi
 date: 2022-11-03 00:00:01 +0300
 description: Hiç bir hükümet seçmedik, ne de seçmemiz muhtemel.
 categories: Çeviri
-tag: Siber Alem
+tag: SiberAlem Online Crypto Kripto
 permalink: /:categories/:title
+Author:
+Translator:
+image: ../images/Barlow.jpg
 ---
 
 ![image](../images/Barlow.jpg)

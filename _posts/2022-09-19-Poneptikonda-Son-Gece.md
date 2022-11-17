@@ -6,6 +6,9 @@ description: Her an gözetlenen adamın hiçbir özgürlüğü yoktu.
 categories: Alıntı
 tag: izleme anonimlik merkeziyetsizlik
 permalink: /:categories/:title
+Author:
+Translator:
+image: ../images/pfanimal.png
 ---
 
 **Her an gözetlenen adamın hiçbir özgürlüğü yoktu.**
