@@ -4,8 +4,11 @@ title: Kimsenin Kötü Olmasına Gerek Yok!
 date: 2006-05-02 12:00:00 +0300
 description: Liberal komünist etiğe göre amansız bir kâr avcılığı hayırseverlikle dengelenmekte, hayırseverlik oyunun bir parçası, altta yatan ekonomik sömürüyü saklamaya yarayan insani bir maske.
 categories: Çeviri
-tag: Komünizm, Liberalizm, Zizek
+tag: Komünizm Liberalizm Zizek
 permalink: /:categories/:title
+Author:
+Translator:
+image: ../images/Effective_Alturism.png
 ---
 
 ![image](../images/Effective_Alturism.png)

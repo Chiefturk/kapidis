@@ -4,8 +4,11 @@ title: Sonrası Nedir?
 date: 2022-10-07 00:00:01 +0300
 description: Soruları artık başkalarına değil kendimize  yönelttiğimiz günlerden geçmeye başlıyoruz.
 categories: Makale
-tag: Post-Modernite
+tag: Post-Modernizm
 permalink: /:categories/:title
+Author:
+Translator:
+image: ../images/guernica.png
 ---
 
 ![image](../images/guernica.png)
