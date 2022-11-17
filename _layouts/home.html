@@ -11,9 +11,9 @@ layout: wrapped
 
     .postCont {
 
-        width: 320px;
-        margin: 18px;
-        height: 350px;
+        width: 288px;
+        margin: 15px;
+        height: 400px;
 
     }
 
@@ -26,7 +26,9 @@ layout: wrapped
     .gridHome {
         display: flex;
         flex-flow: row wrap;
-        height: 640px;
+        height: auto;
+        max-width: 1280px;
+        margin: auto;
 
 
     }
@@ -42,11 +44,11 @@ layout: wrapped
 <div class="gridHome">
     {% for post in site.posts %}
     <article class="postCont">
-        <img style="width: 320px;height: 180px;" src="{{ post.image | prepend: site.baseurl }}" alt="{{ post.title }}"
+        <img style="width: 288px;height: 162px;" src="{{ post.image | prepend: site.baseurl }}" alt="{{ post.title }}"
             title="{{ post.title }}">
 
         <section style="height: 70px; text-align: center;padding:10px">
-            <a class="postLinks" style="font-size: 1.5em;" href="{{ post.url }}">{{post.title}}</a>
+            <a class="postLinks" style="font-size: 1.4em;" href="{{ post.url }}">{{post.title}}</a>
         </section>
 
         <hr>
