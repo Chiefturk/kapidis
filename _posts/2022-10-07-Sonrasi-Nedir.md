@@ -6,7 +6,7 @@ description: Post-modernitenin ruh haline doğru onun tadında zevksizce sürük
 categories: Makale
 tag: Post-Modernizm
 permalink: /:categories/:title
-Author: Anonim
+Author: Anon
 Translator:
 image: ../images/guernica.png
 ---

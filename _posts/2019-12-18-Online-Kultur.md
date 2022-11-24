@@ -6,7 +6,7 @@ description: Nasıl oldu da demokratik rejimler totaliteryenizmi üretti? Neyin 
 categories: Alıntı
 tag: 4chan meme alt-right
 permalink: /:categories/:title
-Author:
+Author: Koray Kırmızısakal
 Translator:
 image: ../images/pepefroggiebw.png
 ---
