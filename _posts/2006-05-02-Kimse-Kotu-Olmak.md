@@ -6,8 +6,8 @@ description: Liberal komünist etiğe göre amansız bir kâr avcılığı hayı
 categories: Çeviri
 tag: Komünizm Liberalizm Zizek
 permalink: /:categories/:title
-Author:
-Translator:
+Author: Slavoj Žižek
+Translator: 
 image: ../images/Effective_Alturism.png
 ---
 

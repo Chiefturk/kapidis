@@ -6,7 +6,7 @@ description: Her an gözetlenen adamın hiçbir özgürlüğü yoktu. Ne bilimse
 categories: Alıntı
 tag: izleme anonimlik merkeziyetsizlik
 permalink: /:categories/:title
-Author:
+Author: Anon
 Translator:
 image: ../images/pfanimal.png
 ---
